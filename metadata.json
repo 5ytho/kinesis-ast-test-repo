@@ -1,0 +1,6 @@
+{
+  "name": "kinesis-ast-test-repo",
+  "description": "Autonomous AST code refactoring benchmark repository featuring useMetricsPipeline hook with intentional security, performance, and architecture test directives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
